@@ -1,0 +1,77 @@
+
+export const rows = [
+  {
+    id: 1,
+    name: "Kurtis Weissnat",
+    email: "Telly.Hoeger@billy.biz",
+    age: 42,
+    phone: "(754)856-1865",
+    access: "manager",
+  },
+  {
+    id: 2,
+    name: "Clementine Bauch",
+    email: "Nathan@yesenia.net",
+    age: 58,
+    phone: "(754)852-1239",
+    access: "manager",
+  },
+  {
+    id: 3,
+    name: "Patricia Lebsack",
+    email: "Julianne.OConner@kory.org",
+    age: 47,
+    phone: "(741)964-963",
+    access: "admin",
+  },
+  {
+    id: 4,
+    name: "Patricia Lebsack",
+    email: "Julianne.OConner@kory.org",
+    age: 38,
+    phone: "(147)852-1239",
+    access: "admin",
+  },
+  {
+    id: 5,
+    name: "Nicholas Runolfsdottir",
+    email: "Sherwood@rosamond.me",
+    age: 22,
+    phone: "(040)258-1595",
+    access: "admin",
+  },
+  {
+    id: 6,
+    name: "Leanne Graham",
+    email: "Sincere@april.biz",
+    age: 36,
+    phone: "(334)964-1239",
+    access: "user",
+  },
+  {
+    id: 7,
+    name: "Ervin Howell",
+    email: "Shanna@melissa.tv",
+    age: 27,
+    phone: "(254)954-1289",
+    access: "user",
+  },
+  {
+    id: 8,
+    name: "Mrs. Dennis Schulist",
+    email: "Karley_Dach@jasper.info",
+    age: 44,
+    phone: "(258)040-9515",
+    access: "user",
+  },
+  {
+    id: 9,
+    name: "Chelsey Dietrch",
+    email: "Lucio_Hettinger@annie.ca",
+    age: 40,
+    phone: "(333)456-1239",
+    access: "user",
+  },
+];
+
+
